@@ -1,2 +1,3 @@
 rootProject.name = "kmeans"
 include ':app'
+include ':openCVLibrary343'
